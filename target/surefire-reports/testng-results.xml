@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.ifpb.testes.Anotacoes1Test" duration-ms="40" started-at="2018-08-29T20:06:59Z" finished-at="2018-08-29T20:06:59Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="40" started-at="2018-08-29T20:06:59Z" finished-at="2018-08-29T20:06:59Z">
+      <class name="com.ifpb.testes.Anotacoes1Test">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.ifpb.testes.Anotacoes1Test@7907ec20]" name="beforeClass" is-config="true" duration-ms="10" started-at="2018-08-29T17:06:59Z" finished-at="2018-08-29T17:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ifpb.testes.Anotacoes1Test@7907ec20]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-08-29T17:06:59Z" finished-at="2018-08-29T17:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="teste_1()[pri:0, instance:com.ifpb.testes.Anotacoes1Test@7907ec20]" name="teste_1" duration-ms="2" started-at="2018-08-29T17:06:59Z" finished-at="2018-08-29T17:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teste_1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ifpb.testes.Anotacoes1Test@7907ec20]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-29T17:06:59Z" finished-at="2018-08-29T17:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ifpb.testes.Anotacoes1Test@7907ec20]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-08-29T17:06:59Z" finished-at="2018-08-29T17:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="teste_2()[pri:0, instance:com.ifpb.testes.Anotacoes1Test@7907ec20]" name="teste_2" duration-ms="3" started-at="2018-08-29T17:06:59Z" finished-at="2018-08-29T17:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teste_2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ifpb.testes.Anotacoes1Test@7907ec20]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-29T17:06:59Z" finished-at="2018-08-29T17:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.ifpb.testes.Anotacoes1Test@7907ec20]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-29T17:06:59Z" finished-at="2018-08-29T17:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ifpb.testes.Anotacoes1Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.ifpb.testes.Anotacoes1Test -->
+</testng-results>
